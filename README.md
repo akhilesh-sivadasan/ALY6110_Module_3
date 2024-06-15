@@ -9,4 +9,4 @@ The dataset used is the Boston Housing dataset, which contains information about
 ## Files in the Repository
 
 - `ALY6110_Assignment_3.ipynb`: Jupyter notebook containing the code for the assignment.
-- `boston_housing.csv`: CSV file containing the Boston Housing dataset.
+- `BostonHousing.csv`: CSV file containing the Boston Housing dataset.
